@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sharaf 👋  
+**Founder @ BFTSC | CS @ UoB | AI & Innovation — Building the future of tech**
 
-<!--
-**sharafedd/sharafedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 Currently working on **AI systems & fintech innovation**
+- 🧠 Exploring **deep learning**, **distributed systems**, and **automation**
+- 🌍 Building digital ecosystems for real-world impact  
+- 💬 Ask me about **AI, web development, or tech entrepreneurship**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+**Languages:** Python, TypeScript, JavaScript, C++  
+**Frameworks:** Next.js, React, Django, PyTorch  
+**Tools:** Supabase, Docker, Git, VS Code  
+
+---
+
+### 📈 GitHub Stats
+![Sharaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharafedd&show_icons=true&theme=tokyonight)
