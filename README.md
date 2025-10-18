@@ -2,18 +2,19 @@
 
 <p align="center" style="margin-top: 20px;">
   <a href="https://sharafboukhezer.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" height="35" title="Personal Website" />
+    <img src="src/website.png" alt="Website" height="35" title="Personal Website" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sharaf-boukhezer/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" title="LinkedIn" />
+    <img src="src/linkedin.png" alt="LinkedIn" height="35" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:sharaf.boukhezer@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="35" title="Gmail" />
+    <img src="src/gmail.png" alt="Gmail" height="35" title="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/SharafBoukhezer" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="35" title="Twitter" />
+    <img src="src/twitter.png" alt="Twitter" height="35" title="Twitter" />
   </a>
 </p>
 
