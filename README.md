@@ -1,19 +1,25 @@
 # Hi, I'm Sharaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  <a href="https://sharafboukhezer.com" target="_blank" style="text-decoration:none; display:inline-block;" >
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" height="40" title="Personal Website" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sharaf-boukhezer/" target="_blank" style="text-decoration:none; display:inline-block;" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:sharaf.boukhezer@gmail.com" target="_blank" style="text-decoration:none; display:inline-block;" >
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/SharafBoukhezer" target="_blank" style="text-decoration:none; display:inline-block;" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="40" />
-  </a>
+  <span style="text-decoration:none;">
+    <a href="https://sharafboukhezer.com" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" height="40" title="Website" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/sharaf-boukhezer/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" title="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:sharaf.boukhezer@gmail.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40" title="Gmail" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/SharafBoukhezer" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="40" title="X / Twitter" />
+    </a>
+  </span>
 </p>
+
 
 - 🎓 I’m a Computer Science student at the University of Birmingham, originally from Algeria, and currently 21 years old.  
 - 💼 Currently working on the Karta project, an innovative digital payment and ecosystem platform.  
