@@ -19,14 +19,15 @@
 </p>
 
 
-- 🎓 I’m a Computer Science student at the [University of Birmingham](https://www.birmingham.ac.uk), originally from Algeria, and currently 21 years old.  
+- 🎓 I’m a 21-year-old Computer Science student at the [University of Birmingham](https://www.birmingham.ac.uk), originally from Algeria 🇩🇿.  
 - 💼 Currently working on [the Karta project](https://www.bftscalgeria.com/karta), an innovative digital payment and ecosystem platform.  
-- 🔬 I enjoy experimenting with algorithms and models, exploring AI research, and building creative tools that make life easier or more fun.  
-- 💡 Passionate about innovation, AI, and technology that creates real impact.  
+- 🔬 I love experimenting with algorithms and models, exploring AI research, and turning innovative ideas into real projects.  
+- 💡 Passionate about technology and creativity, always building something, sometimes serious and sometimes fun. 
 - ✉️ Always open to collaboration and contributions. Feel free to reach out via my socials above!
 
+
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRya2xxZGVvdGt6b3Z1djliZ2VhazkwM2g2ODN3aGF6b3B4cTZkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" height="200" alt="Coding animation" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo5bjV4MnhmZWE3b2drdW5mbXpyNGRtZmUxYXZ0cG15MWhpaGY1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" height="200" alt="Coding animation" />
 </p>
 
 
