@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" height="40" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="SQL" /> &nbsp;
-  <img src="https://img.icons8.com/fluency/48/metatrader.png" height="40" title="MQL5" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/Sharafedd/icons/main/metatrader5.png" height="40" title="MQL5" /> &nbsp;
 </p>
 
 #### AI
