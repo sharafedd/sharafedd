@@ -1,21 +1,13 @@
 # Hi, I'm Sharaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-<p align="center" style="margin-top: 20px;">
-  <a href="https://sharafboukhezer.com" target="_blank">
-    <img src="src/website.png" alt="Website" height="35" title="Personal Website" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sharaf-boukhezer/" target="_blank">
-    <img src="src/linkedin.png" alt="LinkedIn" height="35" title="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:sharaf.boukhezer@gmail.com" target="_blank">
-    <img src="src/gmail.png" alt="Gmail" height="35" title="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/SharafBoukhezer" target="_blank">
-    <img src="src/twitter.png" alt="Twitter" height="35" title="Twitter / X" />
-  </a>
+<p align="center">
+  [![Website](src/website.png)](https://sharafboukhezer.com)
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  [![LinkedIn](src/linkedin.png)](https://www.linkedin.com/in/sharaf-boukhezer/)
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Gmail](src/gmail.png)](mailto:sharaf.boukhezer@gmail.com)
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Twitter](src/twitter.png)](https://twitter.com/SharafBoukhezer)
 </p>
 
 
