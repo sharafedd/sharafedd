@@ -2,19 +2,19 @@
 
 <p align="center" style="margin-top: 20px;">
   <a href="https://sharafboukhezer.com" target="_blank">
-    <img src="src/website.png" alt="Website" height="40" title="Personal Website" />
+    <img src="https://github.com/sharafedd/sharafedd/src/website.png" alt="Website" height="40" title="Personal Website" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sharaf-boukhezer/" target="_blank">
-    <img src="src/linkedin.png" alt="LinkedIn" height="40" title="LinkedIn" />
+    <img src="https://github.com/sharafedd/sharafedd/src/linkedin.png" alt="LinkedIn" height="40" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:sharaf.boukhezer@gmail.com" target="_blank">
-    <img src="src/gmail.png" alt="Gmail" height="40" title="Gmail" />
+    <img src="https://github.com/sharafedd/sharafedd/src/gmail.png" alt="Gmail" height="40" title="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/SharafBoukhezer" target="_blank">
-    <img src="src/twitter.png" alt="Twitter" height="40" title="Twitter" />
+    <img src="https://github.com/sharafedd/sharafedd/src/twitter.png" alt="Twitter" height="40" title="Twitter" />
   </a>
 </p>
 
