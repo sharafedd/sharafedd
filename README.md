@@ -1,20 +1,22 @@
 # Hi, I'm Sharaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  <a href="https://sharafboukhezer.com" target="_blank" >
+  <a href="https://sharafboukhezer.com" target="_blank" style="text-decoration:none; display:inline-block;" >
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" height="40" title="Personal Website" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sharaf-boukhezer/" target="_blank" >
+  <a href="https://www.linkedin.com/in/sharaf-boukhezer/" target="_blank" style="text-decoration:none; display:inline-block;" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:sharaf.boukhezer@gmail.com" target="_blank" >
+  <a href="mailto:sharaf.boukhezer@gmail.com" target="_blank" style="text-decoration:none; display:inline-block;" >
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/SharafBoukhezer" target="_blank">
+  <a href="https://twitter.com/SharafBoukhezer" target="_blank" style="text-decoration:none; display:inline-block;" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="40" />
   </a>
 </p>
 
+<br>
+<hr>
 
 ### About Me
 - 🎓 I’m a Computer Science student at the University of Birmingham, originally from Algeria, and currently 21 years old.  
@@ -23,6 +25,8 @@
 - 💡 Passionate about innovation, AI, and technology that creates real impact.  
 - ✉️ Always open to collaboration and contributions. Feel free to reach out via my socials below.
 
+<br>
+<hr>
 
 ### Tech Stack
 
@@ -67,6 +71,8 @@
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" />
 </p>
 
+<br>
+<hr>
 
 ### GitHub Stats
 
