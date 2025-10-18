@@ -15,10 +15,6 @@
   </a>
 </p>
 
-<br>
-<hr>
-
-### About Me
 - 🎓 I’m a Computer Science student at the University of Birmingham, originally from Algeria, and currently 21 years old.  
 - 💼 Currently working on the Karta project, an innovative digital payment and ecosystem platform.  
 - 🔬 I enjoy experimenting with algorithms and models, exploring AI research, and building creative tools that make life easier or more fun.  
@@ -27,6 +23,7 @@
 
 <br>
 <hr>
+
 
 ### Tech Stack
 
@@ -73,6 +70,7 @@
 
 <br>
 <hr>
+
 
 ### GitHub Stats
 
