@@ -1,14 +1,15 @@
 # Hi, I'm Sharaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  [![Website](https://cdn-icons-png.flaticon.com/512/841/841364.png)](https://sharafboukhezer.com)
+  [![Website](src/website.png)](https://sharafboukhezer.com)
   &nbsp;&nbsp;&nbsp;&nbsp;
-  [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/sharaf-boukhezer/)
+  [![LinkedIn](src/linkedin.png)](https://www.linkedin.com/in/sharaf-boukhezer/)
   &nbsp;&nbsp;&nbsp;&nbsp;
-  [![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:sharaf.boukhezer@gmail.com)
+  [![Gmail](src/gmail.png)](mailto:sharaf.boukhezer@gmail.com)
   &nbsp;&nbsp;&nbsp;&nbsp;
-  [![Twitter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg)](https://twitter.com/SharafBoukhezer)
+  [![Twitter](src/twitter.png)](https://twitter.com/SharafBoukhezer)
 </p>
+
 
 - 🎓 I’m a Computer Science student at the University of Birmingham, originally from Algeria, and currently 21 years old.  
 - 💼 Currently working on the Karta project, an innovative digital payment and ecosystem platform.  
