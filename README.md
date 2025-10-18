@@ -4,7 +4,6 @@
   <a href="https://sharafboukhezer.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" height="35" title="Personal Website" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sharaf-boukhezer/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" title="LinkedIn" />
   </a>
