@@ -25,6 +25,11 @@
 - 💡 Passionate about innovation, AI, and technology that creates real impact.  
 - ✉️ Always open to collaboration and contributions. Feel free to reach out via my socials above!
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" alt="AI animation" />
+</p>
+
+
 <br>
 <hr>
 
