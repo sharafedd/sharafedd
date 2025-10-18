@@ -26,7 +26,7 @@
 - ✉️ Always open to collaboration and contributions. Feel free to reach out via my socials above!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalH9oHRzW/giphy.gif" height="250" alt="Futuristic tech animation" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="250" alt="Coding animation" />
 </p>
 
 
