@@ -1,14 +1,7 @@
 # Hi, I'm Sharaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-<p align="center">
-  [![Website](src/website.png)](https://sharafboukhezer.com)
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  [![LinkedIn](src/linkedin.png)](https://www.linkedin.com/in/sharaf-boukhezer/)
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  [![Gmail](src/gmail.png)](mailto:sharaf.boukhezer@gmail.com)
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  [![Twitter](src/twitter.png)](https://twitter.com/SharafBoukhezer)
-</p>
+| [![Website](src/website.png)](https://sharafboukhezer.com) | [![LinkedIn](src/linkedin.png)](https://www.linkedin.com/in/sharaf-boukhezer/) | [![Gmail](src/gmail.png)](mailto:sharaf.boukhezer@gmail.com) | [![Twitter](src/twitter.png)](https://twitter.com/SharafBoukhezer) |
+|:--:|:--:|:--:|:--:|
 
 
 - 🎓 I’m a Computer Science student at the University of Birmingham, originally from Algeria, and currently 21 years old.  
