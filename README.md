@@ -1,13 +1,13 @@
 # Hi, I'm Sharaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<p align="center" style="margin-top: 20px;">
-  <a href="https://sharafboukhezer.com" target="_blank">
+<p align="center">
+  <a href="https://sharafboukhezer.com" target="_blank" >
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" height="40" title="Personal Website" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sharaf-boukhezer/" target="_blank" style="margin-right: 25px;">
+  <a href="https://www.linkedin.com/in/sharaf-boukhezer/" target="_blank" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:sharaf.boukhezer@gmail.com" target="_blank" style="margin-right: 25px;">
+  <a href="mailto:sharaf.boukhezer@gmail.com" target="_blank" >
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/SharafBoukhezer" target="_blank">
@@ -41,11 +41,11 @@
 
 #### AI
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/1077/1077012.png" height="40" title="Machine Learning" /> &nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/10310/10310628.png" height="40" title="Deep Learning" /> &nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/9443/9443070.png" height="40" title="Computer Vision" /> &nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/9939/9939828.png" height="40" title="Natural Language Processing" /> &nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/11877/11877665.png" height="40" title="Evolutionary Computation" />
+  <img src="src/ML.png" height="40" title="Machine Learning" /> &nbsp;
+  <img src="src/DL.png" height="40" title="Deep Learning" /> &nbsp;
+  <img src="src/CV.png" height="40" title="Computer Vision" /> &nbsp;
+  <img src="src/NLP.png" height="40" title="Natural Language Processing" /> &nbsp;
+  <img src="src/EC.png" height="40" title="Evolutionary Computation" />
 </p>
 
 #### Frameworks
