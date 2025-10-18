@@ -2,19 +2,19 @@
 
 <p align="center" style="margin-top: 20px;">
   <a href="https://sharafboukhezer.com" target="_blank">
-    <img src="src/website.png" alt="Website" height="35" title="Personal Website" />
+    <img src="src/website.png" alt="Website" height="40" title="Personal Website" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sharaf-boukhezer/" target="_blank">
-    <img src="src/linkedin.png" alt="LinkedIn" height="35" title="LinkedIn" />
+    <img src="src/linkedin.png" alt="LinkedIn" height="40" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:sharaf.boukhezer@gmail.com" target="_blank">
-    <img src="src/gmail.png" alt="Gmail" height="35" title="Gmail" />
+    <img src="src/gmail.png" alt="Gmail" height="40" title="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/SharafBoukhezer" target="_blank">
-    <img src="src/twitter.png" alt="Twitter" height="35" title="Twitter" />
+    <img src="src/twitter.png" alt="Twitter" height="40" title="Twitter" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 - ✉️ Always open to collaboration and contributions. Feel free to reach out via my socials above!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="200" alt="Coding animation" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRya2xxZGVvdGt6b3Z1djliZ2VhazkwM2g2ODN3aGF6b3B4cTZkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" height="200" alt="Coding animation" />
 </p>
 
 
