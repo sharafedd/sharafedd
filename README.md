@@ -19,7 +19,7 @@
 </p>
 
 
-- 🎓 I’m a 21-year-old Computer Science student at the [University of Birmingham](https://www.birmingham.ac.uk), originally from Algeria <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/dz.svg" width="18"/>.  
+- 🎓 I’m a 21-year-old Computer Science student at the [University of Birmingham](https://www.birmingham.ac.uk), originally from <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/dz.svg" width="18"/> Algeria.  
 - 💼 Currently working on [the Karta project](https://www.bftscalgeria.com/karta), an innovative digital payment and ecosystem platform.  
 - 🔬 I love experimenting with algorithms and models, exploring AI research, and turning innovative ideas into real projects.  
 - 💡 Passionate about technology and creativity, always building something, sometimes serious and sometimes fun. 
