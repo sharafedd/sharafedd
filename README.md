@@ -8,7 +8,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
   </a> &nbsp;&nbsp;
   <a href="mailto:sharaf.boukhezer@gmail.com" target="_blank" style="margin-right: 25px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/Gmail_Icon.svg](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" alt="Gmail" height="40" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/SharafBoukhezer" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="40" />
@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" height="40" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="SQL" /> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MQL5_Logo.svg" height="40" title="MQL5" /> &nbsp;
+  <img src="https://seeklogo.com/images/M/mql5-logo-720C94F3C7-seeklogo.com.png" height="40" title="MQL5" /> &nbsp;
 </p>
 
 #### AI
@@ -55,7 +55,7 @@
   <img src="https://skillicons.dev/icons?i=angular" height="40" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Expo_Logo.svg" height="40" title="Expo" />
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" height="40" title="Expo" />
 </p>
 
 #### Tools
