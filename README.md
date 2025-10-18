@@ -1,14 +1,29 @@
 # Hi, I'm Sharaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-| [![Website](src/website.png)](https://sharafboukhezer.com) | [![LinkedIn](src/linkedin.png)](https://www.linkedin.com/in/sharaf-boukhezer/) | [![Gmail](src/gmail.png)](mailto:sharaf.boukhezer@gmail.com) | [![Twitter](src/twitter.png)](https://twitter.com/SharafBoukhezer) |
-|:--:|:--:|:--:|:--:|
+<p align="center" style="margin-top: 20px;">
+  <a href="https://sharafboukhezer.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" height="40" title="Personal Website" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sharaf-boukhezer/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" title="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sharaf.boukhezer@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40" title="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/SharafBoukhezer" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="40" title="Twitter" />
+  </a>
+</p>
 
 
-- 🎓 I’m a Computer Science student at the University of Birmingham, originally from Algeria, and currently 21 years old.  
-- 💼 Currently working on the Karta project, an innovative digital payment and ecosystem platform.  
+- 🎓 I’m a Computer Science student at the [University of Birmingham](https://www.birmingham.ac.uk), originally from Algeria, and currently 21 years old.  
+- 💼 Currently working on [the Karta project](https://www.bftscalgeria.com/karta), an innovative digital payment and ecosystem platform.  
 - 🔬 I enjoy experimenting with algorithms and models, exploring AI research, and building creative tools that make life easier or more fun.  
 - 💡 Passionate about innovation, AI, and technology that creates real impact.  
-- ✉️ Always open to collaboration and contributions. Feel free to reach out via my socials below.
+- ✉️ Always open to collaboration and contributions. Feel free to reach out via my socials above!
 
 <br>
 <hr>
