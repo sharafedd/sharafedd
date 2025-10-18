@@ -1,14 +1,14 @@
 # Hi, I'm Sharaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center" style="margin-top: 20px;">
-  <a href="https://sharafeddine.boukhezer" target="_blank">
+  <a href="https://sharafboukhezer.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" height="40" title="Personal Website" />
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sharaf-boukhezer/" target="_blank" style="margin-right: 25px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
   </a> &nbsp;&nbsp;
   <a href="mailto:sharaf.boukhezer@gmail.com" target="_blank" style="margin-right: 25px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/Gmail_Icon.svg" alt="Gmail" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/Gmail_Icon.svg](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/SharafBoukhezer" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="40" />
