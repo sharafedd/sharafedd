@@ -85,7 +85,7 @@
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=sharafedd&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=sharafedd&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://raw.githubusercontent.com/sharafedd/github-stats/master/generated/overview.svg" height="160" />
+  <img src="https://raw.githubusercontent.com/sharafedd/github-stats/master/generated/languages.svg" height="160" />
 </p>
 
