@@ -85,7 +85,7 @@
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/sharafedd/github-stats/master/generated/overview.svg" height="160" />
-  <img src="https://raw.githubusercontent.com/sharafedd/github-stats/master/generated/languages.svg" height="160" />
+  <img src="https://raw.githubusercontent.com/sharafedd/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="160" />
+  <img src="https://raw.githubusercontent.com/sharafedd/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="160" />
 </p>
 
